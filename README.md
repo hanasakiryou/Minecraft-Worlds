@@ -1,5 +1,5 @@
 # Format
-The maps are from minecraft PE edition without further notice.
+The maps are from minecraft **Pocket Edition** without further notice.
 
 # Installation
 Download the whole folder of the map and move the folder to 
