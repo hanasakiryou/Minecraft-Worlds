@@ -1,3 +1,10 @@
+#  いっらしゃいませ！！Welcome!!(◕ᴗ◕✿)
+This repository backs up the Minecraft maps that I have been building all along.
+
+To share my dreams of building a ideal world!
+
+![Welcome page photo](/Photos/Welcome_Main_Page.jpg)
+
 # Format
 The maps are from minecraft **Pocket Edition** without further notice.
 
