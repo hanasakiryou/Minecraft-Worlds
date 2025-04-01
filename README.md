@@ -9,20 +9,11 @@ To share our dreams of building a ideal world!
 
 ![Welcome page photo](/Repo_Assets/Welcome_Main_Page.jpg)
 
-# Usage
-
-## World format
-
-Different types of the maps (PE, Java, etc.) are stored in corresponding folders in the repository. Please select the suitable version of maps for you before download.
-
-Also, there are tons of good quality transformation tools for Minecraft maps on the internet. Feel free to explore and convert any map you like to the correct type for you on your local machine.
-
-
-## Download and explore on your own
+# Download and Explore Your Interested Maps
 
 To explore and download the map you like in your own machine (without anyone knowing it), use the two methods we provide below.
 
-### Download on the web
+## Download on the web (RECOMMENDED)
 
 You are now at the [github repository of this project](https://github.com/oraoraoraaa/Minecraft-Worlds), you can download any world folder you like.
 
@@ -32,16 +23,24 @@ Download the whole folder of the map and move the folder to
 ```
 to import the map in the game. (Generally, search online if it doesn't match your machine.)
 
-### Use git
+## Use git
 
-Type this line in your machine's console to get a full copy of the repository, then just select any maps you like to explore!
+Type this line in your machine's console to **get a full copy** of the repository, then just select any maps you like to explore!
 
 ```
 git clone https://github.com/oraoraoraaa/Minecraft-Worlds
 ```
 If you do not know how to use git, or you haven't installed git in your PC, PLEASE find learning resources yourself!
 
-## Upload your map to back it up, and make it public
+## World format
+
+Different types of the maps (PE, Java, etc.) are stored in corresponding folders in the repository. Please select the suitable version of maps for you before download.
+
+Also, there are tons of good quality transformation tools for Minecraft maps on the internet. Feel free to explore and convert any map you like to the correct type for you on your local machine.
+
+
+
+# Upload your map to back it up, and make it public
 
 
 > To maintain the loveliness and harmony of our community, uploads containing:
@@ -55,7 +54,7 @@ If you do not know how to use git, or you haven't installed git in your PC, PLEA
 
 We provide these two methods for uploading your map(s) to our repository.
 
-### Email submission
+## Email submission (RECOMMENDED)
 
 Please contact us via email, telling us your map's type (PE, Java, etc.) and involve a ZIP file in the attachment. 
 
@@ -68,35 +67,37 @@ You should also include your **contact info** in your email if you want to let o
 
 Email contact: rinalic39@gmail.com
 
-### Push access to the repository
+## Gain push access to the repository
 
 If you'd like to keep your changes of your map updated to the remote, you can apply for PUSH access to the repository.
 
-#### Prerequisite
+### Prerequisite
 
 - You should be familiar with the basic git functionality. 
 - You should understand the fundamental structure of the github repository.
 
 If you find that you cannot understand the warning below, you should find more learning resources to learn deeper, or simply use the email submission method for uploading. We will handle it for you from there.
 
-#### WARNING
+### WARNING
 
-Due to the security reasons, we do not permit `git push` command from the console. You have the permission to `git clone` the repository to your own machine, but the attempts to changing the repo locally and use `git push` is not allowed. Please create pull request in the repository's github website.
+Due to the security reasons, we do not permit `git push` command from the console. You have the permission to `git clone` the repository to your own machine, but the attempts to changing the repo locally and then using `git push` to upload is not allowed. Please create pull request in the repository's github website.
 
 **ANY ATTEMPT OF DIRECTLY PUSH OR MERGE INTO MAIN BRANCH IS STRICTLY PROHIBITED** and once discovered, the user's permission and access to push **WOULD BE REMOVED PERMANENTLY.**
 
 ![Hiho_Gitpush_Kinshi](https://github.com/user-attachments/assets/7c282dbc-caaa-4f85-b38f-fbbf267d727a)
 
-#### Steps to create pull requests
+### Steps to create pull requests
+
+(All the steps below are required to complete at the github website.)
 
 1. Before making any changes, you **MUST** create a new branch and name it briefly to describe your goal. 
 2. After uploading what you need, commit your changes clearly with the commit message.
 3. Create a pull request, and wait for the code owner's review.
 
-#### Still determined? Apply for push permission!
+### Still determined? Apply for push permission!
 After reading ["Instructions for Applying Push Access"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/2) document, submit your application for push access under the discussion category ["Apply for permission"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/categories/apply-for-permission).
 
-#### Please note
+### Please note
 The folder structure you upload should be uniform with all of our stored folder in the repo. Please check and learn about the general structure of our folder before your push.
 If the structure doesn't match, we might REJECT your pull request and ask for adjustments.
 
