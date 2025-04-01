@@ -89,7 +89,7 @@ If the structure doesn't match, we might REJECT your pull request without furthe
 
 After reading ["Instructions for Applying Push Access"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/2) document, submit your application for push access under the discussion category ["Apply for anything"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/categories/apply-for-anything).
 
-# About discussion function
+# About discussion
 If you have any questions, move to the [pinned announcement of the discussion page](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/1) for more details.
 
 # World Screenshots
