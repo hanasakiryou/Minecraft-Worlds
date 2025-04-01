@@ -1,6 +1,8 @@
 #  いっらしゃいませ！！Welcome!!(◕ᴗ◕✿)
 This is a vivid and open-source Minecraft world set which stores everyone's precious creativity!
+
 Everyone can upload their awesome maps here to back it up, and make it public to everyone to admire!
+
 You could also find maps that catch your interest to download and play in it yourself, and also, contact the author of the map to look for cooperation!!
 
 To share our dreams of building a ideal world!
@@ -12,6 +14,7 @@ To share our dreams of building a ideal world!
 **World format**
 
 Different types of the maps (PE, Java, etc.) are stored in corresponding folders in the repository. Please select the suitable version of maps for you before download.
+
 Also, there are tons of good quality transformation tools for Minecraft maps on the internet. Feel free to explore and convert any map you like to the correct type for you on your local machine.
 
 
@@ -27,7 +30,7 @@ Download the whole folder of the map and move the folder to
 ```
 /Minecraft/games/com.mojang/minecraftWorlds
 ```
-to import the map in the game.
+to import the map in the game. (Generally, search online if it doesn't match your machine.)
 
 ### Use git
 
