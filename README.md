@@ -11,7 +11,7 @@ To share our dreams of building a ideal world!
 
 # Usage
 
-**World format**
+## World format
 
 Different types of the maps (PE, Java, etc.) are stored in corresponding folders in the repository. Please select the suitable version of maps for you before download.
 
