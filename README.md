@@ -87,8 +87,7 @@ During the push process, you **MUST** create a new branch, describe your changes
 The push folder should be uniform with all of our stored folder in the repo. Please check and learn about the general structure of our folder before your push.
 If the structure doesn't match, we might REJECT your pull request without further notice.
 
-
-Contact via email (rinalic39@gmail.com) to grant access for push.
+After reading ["Instructions for Applying Push Access"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/2) document, submit your application for push access under the discussion category ["Apply for anything"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/categories/apply-for-anything).
 
 # About discussion function
 If you have any questions, move to the [pinned announcement of the discussion page](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/1) for more details.
