@@ -7,7 +7,7 @@ You could also find maps that catch your interest to download and play in it you
 
 To share our dreams of building a ideal world!
 
-![Welcome page photo](/Repo_Assets/Welcome_Main_Page.jpg)
+![Welcome page photo](/Repo-Assets/Welcome-Main-Page.jpg)
 
 # Download and Explore Your Interested Maps
 
@@ -107,9 +107,9 @@ If you have any questions, move to the [pinned announcement of the discussion pa
 # World Screenshots
 ## Aragaki
 ### Shengxi Front Birdview
-![Aragaki-Shengxi Front birdview](/Worlds/Screenshots/Aragaki/Shengxi_Front.PNG)
+![Aragaki-Shengxi Front birdview](/Worlds/Screenshots/Aragaki-PE/Shengxi-Front.PNG)
 ### Hanxi Interchange Birdview
-![Aragaki-Hanxi Interchange Birdview](/Worlds/Screenshots/Aragaki/Hanxi_Interchange.PNG)
+![Aragaki-Hanxi Interchange Birdview](/Worlds/Screenshots/Aragaki-PE/Hanxi-Interchange.PNG)
 ### Linhan Station
-![Aragaki-Hanxi Linhan Station 1](/Worlds/Screenshots/Aragaki/Linhan_Station1.PNG)
-![Aragaki-Hanxi Linhan Station 1](/Worlds/Screenshots/Aragaki/Linhan_Station2.PNG)
+![Aragaki-Hanxi Linhan Station 1](/Worlds/Screenshots/Aragaki-PE/Linhan-Station1.PNG)
+![Aragaki-Hanxi Linhan Station 1](/Worlds/Screenshots/Aragaki-PE/Linhan-Station2.PNG)
