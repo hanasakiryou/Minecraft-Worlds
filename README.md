@@ -45,10 +45,12 @@ If you do not know how to use git, or you haven't installed git in your PC, PLEA
 
 
 > To maintain the loveliness and harmony of our community, uploads containing:
-> 1. Any **destructive and malicious** attempts in other people's map, and the PUSH attempt to the remote.
+> 1. Any **destructive and malicious** attempts in other people's map (unauthorized changes in other people's folder).
 > 2. Any upload request containing maps with **political** contents, **copyright issue related** contents, **sexual** contents which is extreme and illegal in most countries, **disturbing** contents which is illegal in > most countries, and any other contents that would arise legal issue.
 > 
-> WOULD BE REJECTED WITHOUT FURTHER NOTICE.
+> WOULD BE REJECTED WITHOUT CONSIDERATION.
+>
+> THE USER CONDUCTING SUCH MISBEHAVIOR WOULD ALSO BE BANNED FROM THE COMMUNITY.
 
 
 We provide these two methods for uploading your map(s) to our repository.
@@ -70,24 +72,33 @@ Email contact: rinalic39@gmail.com
 
 If you'd like to keep your changes of your map updated to the remote, you can apply for PUSH access to the repository.
 
-**Prerequisite**
+#### Prerequisite
 
-You should be familiar with the basic "git" functionality. 
-You should understand the fundamental structure of the github repository.
+- You should be familiar with the basic git functionality. 
+- You should understand the fundamental structure of the github repository.
+
 If you find that you cannot understand the warning below, you should find more learning resources to learn deeper, or simply use the email submission method for uploading. We will handle it for you from there.
 
-**WARNING**
+#### WARNING
 
-During the push process, you **MUST** create a new branch, describe your changes clearly with the commit message, and stage a pull request for organizer's review.
+Due to the security reasons, we do not permit `git push` command from the console. You have the permission to `git clone` the repository to your own machine, but the attempts to changing the repo locally and use `git push` is not allowed. Please create pull request in the repository's github website.
 
-**ANY ATTEMPT OF DIRECTLY PUSH INTO MAIN BRANCH IS STRICTLY PROHIBITED** and once discovered, the user's permission and access to push **WOULD BE REMOVED PERMANENTLY.**
+**ANY ATTEMPT OF DIRECTLY PUSH OR MERGE INTO MAIN BRANCH IS STRICTLY PROHIBITED** and once discovered, the user's permission and access to push **WOULD BE REMOVED PERMANENTLY.**
 
 ![Hiho_Gitpush_Kinshi](https://github.com/user-attachments/assets/7c282dbc-caaa-4f85-b38f-fbbf267d727a)
 
-The push folder should be uniform with all of our stored folder in the repo. Please check and learn about the general structure of our folder before your push.
-If the structure doesn't match, we might REJECT your pull request without further notice.
+#### Steps to create pull requests
 
-After reading ["Instructions for Applying Push Access"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/2) document, submit your application for push access under the discussion category ["Apply for anything"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/categories/apply-for-anything).
+1. Before making any changes, you **MUST** create a new branch and name it briefly to describe your goal. 
+2. After uploading what you need, commit your changes clearly with the commit message.
+3. Create a pull request, and wait for the code owner's review.
+
+#### Still determined? Apply for push permission!
+After reading ["Instructions for Applying Push Access"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/2) document, submit your application for push access under the discussion category ["Apply for permission"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/categories/apply-for-anything).
+
+#### Please note
+The folder structure you upload should be uniform with all of our stored folder in the repo. Please check and learn about the general structure of our folder before your push.
+If the structure doesn't match, we might REJECT your pull request and ask for adjustments.
 
 # About discussion
 If you have any questions, move to the [pinned announcement of the discussion page](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/1) for more details.
