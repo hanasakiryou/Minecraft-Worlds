@@ -1,5 +1,7 @@
 #  いっらしゃいませ！！Welcome!!(◕ᴗ◕✿)
 This is a vivid and open-source Minecraft world set which stores everyone's precious creativity!
+Everyone can upload their awesome maps here to back it up, and make it public to everyone to admire!
+You could also find maps that catch your interest to download and play in it yourself, and also, contact the author of the map to look for cooperation!!
 
 To share our dreams of building a ideal world!
 
@@ -57,6 +59,8 @@ The ZIP file should include:
 - The main folder of your minecraft world. If you don't know where it is, please search online for tutorials.
 - Several screenshots of the featured places or buildings in your map, and a brief description of each screenshot. Please mind that we might not use all of them as saving for public resources.
 
+You should also include your **contact info** in your email if you want to let others to contact you if they are interested in cooperate with you.
+
 Email contact: rinalic39@gmail.com
 
 ### Push access to the repository
@@ -76,6 +80,9 @@ During the push process, you **MUST** create a new branch, describe your changes
 **ANY ATTEMPT OF DIRECTLY PUSH INTO MAIN BRANCH IS STRICTLY PROHIBITED** and once discovered, the user's permission and access to push **WOULD BE REMOVED PERMANENTLY.**
 
 ![Hiho_Gitpush_Kinshi](https://github.com/user-attachments/assets/7c282dbc-caaa-4f85-b38f-fbbf267d727a)
+
+The push folder should be uniform with all of our stored folder in the repo. Please check and learn about the general structure of our folder before your push.
+If the structure doesn't match, we might REJECT your pull request without further notice.
 
 
 Contact via email (rinalic39@gmail.com) to grant access for push.
