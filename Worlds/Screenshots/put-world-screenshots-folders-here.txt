@@ -1,0 +1,2 @@
+Create a folder with the name of your world, and add a suffix to demonstrate edition.
+Then put screenshots in the folder.
