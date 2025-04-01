@@ -94,7 +94,7 @@ Due to the security reasons, we do not permit `git push` command from the consol
 3. Create a pull request, and wait for the code owner's review.
 
 #### Still determined? Apply for push permission!
-After reading ["Instructions for Applying Push Access"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/2) document, submit your application for push access under the discussion category ["Apply for permission"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/categories/apply-for-anything).
+After reading ["Instructions for Applying Push Access"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/2) document, submit your application for push access under the discussion category ["Apply for permission"](https://github.com/oraoraoraaa/Minecraft-Worlds/discussions/categories/apply-for-permission).
 
 #### Please note
 The folder structure you upload should be uniform with all of our stored folder in the repo. Please check and learn about the general structure of our folder before your push.
